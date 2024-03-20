@@ -13,3 +13,4 @@ let result=document.querySelector('#result')
 text.addEventListener('click',throttle(function(){
     result.innerHTML=text.value
 }))
+//.

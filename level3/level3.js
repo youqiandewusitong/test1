@@ -16,7 +16,7 @@
 // 执行console.log("time")
 
 
-// 最后的顺序为`1 start bar p1 2 end p2 time`
+// 最后的顺序为`1 start bar p1 2 end p2 time`.
 async function foo() {
     console.log("start");
     await bar();
